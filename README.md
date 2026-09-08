@@ -233,3 +233,6 @@ This repository serves as the official landing page for No Mario's Sky. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of No Mario's Sky today!**
+
+---
+**Last updated:** 2026-09-08 11:57:33 UTC
