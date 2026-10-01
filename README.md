@@ -235,4 +235,4 @@ This repository serves as the official landing page for No Mario's Sky. The soft
 **Get the most recent version of No Mario's Sky today!**
 
 ---
-**Last updated:** 2026-09-30 23:25:38 UTC
+**Last updated:** 2026-10-01 03:59:00 UTC
